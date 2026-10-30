@@ -24,13 +24,13 @@ repository               : "nightkid03/nightkid03.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Guojun Wu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Assistant Professor"
+  location         : "Manhattan, KS"
+  employer         : "Kansas State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "gw03@ksu.edu" 
 
   # Academic websites
   academia         : # URL
