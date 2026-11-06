@@ -16,7 +16,7 @@ redirect_from:
   <div>
     <h3>Guojun Wu</h3>
     <h4 style="margin-top: -10px; color: gray;">PI</h4>
-    <p> Guojun (Gary) is the PI of the Wu Lab. He is a 1st year tenure track Assistant Professor at K-State. Find his CV </p>
+    <p> Guojun (Gary) is the PI of the Wu Lab. He is a 1st year tenure track Assistant Professor at K-State.</p>
   </div>
 </div>
 <hr style="border: 0.5px solid lightgray; margin: 20px 0;">
