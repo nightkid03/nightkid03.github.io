@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Welcome to the Wu Lab at Kansas State University!
+
 We study the ecology of the human gut microbiome — a complex community of microbes that interacts with our diet and our bodies to shape health and disease. Our work includes how foods such as dietary fiber, pulses, and polyphenol-rich fruits reshape the gut microbiome, and how these changes can help health management.
 
 We approach the gut microbiome as an ecosystem. Rather than studying bacteria one species at a time, we identify “guilds,” groups of microbes that respond together to diet and work together to provide services to their host. Using genome-centric metagenomics, ecological theory, and machine learning, we discovered a “two competing guilds” structure that serves as a core microbiome signature of health and can predict disease status and treatment responses across populations.
